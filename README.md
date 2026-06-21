@@ -288,4 +288,4 @@ Confira se a estrutura das pastas do projeto permanece igual à do repositório 
 
 # Licença
 
-Projeto desenvolvido exclusivamente para fins acadêmicos na disciplina de Inteligência Artificial.
+Projeto desenvolvido exclusivamente para fins acadêmicos.
