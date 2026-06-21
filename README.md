@@ -53,7 +53,7 @@ https://www.python.org/downloads/release/python-3119/
 Abra o terminal e execute:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/GAC2004/diario-oficial-avare-versao_2
 ```
 
 Depois entre na pasta do projeto:
